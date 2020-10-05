@@ -1,0 +1,6 @@
+module Pods_Vegyii {
+  umbrella header "Pods-Vegyii-umbrella.h"
+
+  export *
+  module * { export * }
+}
